@@ -1,2 +1,2 @@
 # IDXPropertySearch
-Provide MLS property listing based on users query.
+Is is a Wordpress plugin to provide MLS property listing based on users query.
